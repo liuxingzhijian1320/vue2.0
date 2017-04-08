@@ -29,6 +29,7 @@ model的几个步骤
        }
   }
   
+  
 当我们修改model中值会主动修改视图的值所以应该先把值拷贝一份的
 //编辑--打开model
      openTagModalUpdate:function(tag,index){
